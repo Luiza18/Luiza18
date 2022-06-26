@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo **Python  e Java**
 
-- 🤝 Estou procurando um estágio da área de desenvolvimento
+- 🤝 Estou procurando um estágio na área de desenvolvimento
 
 -  👨‍💻  Estou compartilhando aqui meu progresso nos meus estudos
 
