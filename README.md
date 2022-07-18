@@ -3,11 +3,11 @@
 
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=luiza18&label=Profile%20views&color=0e75b6&style=flat" alt="luiza18" /> </p>
 
--&#x1F4DA; Estou aprendendo **Python  e Java**
+- &#x1F4DA; Estou aprendendo **Python  e Java**
 
-- &#x1F50E; Estou procurando um estágio na área de desenvolvimento
+- &#x1F50E; &#x1F4BC; Estou procurando um estágio na área de desenvolvimento
 
-- 👩‍💻 ;  Estou compartilhando aqui meu progresso nos meus estudos
+- 👩‍💻 &#x1F469;  Estou compartilhando aqui meu progresso nos meus estudos
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiza18&show_icons=true&theme=cobalt)
 
