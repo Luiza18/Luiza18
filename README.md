@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou  a Luiza</h1>
-<h3 align="center">Atualmente sou estudante de engenharia de computação e desejo entrar no mundo da programação</h3>
+<h3 align="center">Atualmente sou estudante de engenharia de computação e desejo entrar no mundo da desenvolvimento de software</h3>
 
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=luiza18&label=Profile%20views&color=0e75b6&style=flat" alt="luiza18" /> </p>
 
