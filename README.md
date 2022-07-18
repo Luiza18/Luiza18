@@ -7,7 +7,7 @@
 
 - &#x1F50E; &#x1F4BC; Estou procurando um estágio na área de desenvolvimento
 
-- 👩‍💻 &#x200D;  Estou compartilhando aqui meu progresso nos meus estudos
+- 👩‍💻 &#x200D; &#x1F4BB Estou compartilhando aqui meu progresso nos meus estudos
 
 
 
