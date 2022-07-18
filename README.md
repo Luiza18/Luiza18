@@ -3,7 +3,7 @@
 
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=luiza18&label=Profile%20views&color=0e75b6&style=flat" alt="luiza18" /> </p>
 
-- &#x1F5A5;&#m1F5B1; Estou aprendendo **Python  e Java**
+- &#x1F5A5; &#x1F5B1; Estou aprendendo **Python  e Java**
 
 - 🤝 Estou procurando um estágio na área de desenvolvimento
 
