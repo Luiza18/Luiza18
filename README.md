@@ -7,7 +7,7 @@
 
 - 🤝 Estou procurando um estágio na área de desenvolvimento
 
-- &#x1F469;  Estou compartilhando aqui meu progresso nos meus estudos
+- &#x1F468;  Estou compartilhando aqui meu progresso nos meus estudos
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiza18&show_icons=true&theme=cobalt)
 
