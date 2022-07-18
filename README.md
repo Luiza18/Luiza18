@@ -1,4 +1,4 @@
-<h1 align="center">Oi 1F44B
+<h1 align="center">Oi &#x1F44B;
   👋, eu sou  a Luiza</h1>
 <h3 align="center">Atualmente sou estudante de engenharia de computação e desejo entrar no mundo de desenvolvimento de software</h3>
 
