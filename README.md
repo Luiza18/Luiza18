@@ -5,7 +5,7 @@
 
 - &#x1F4DA; Estou aprendendo **Python  e Java**
 
-- &#x1F50E; &#x1F4BC; Estou procurando um estágio na área de desenvolvimento
+- &#x1F50E; &#x1F4BC; Estou procurando um estágio na área de desenvolvimento de software
 
 - 👩‍💻 &#x200D; &#x1F4BB; Estou compartilhando aqui meu progresso nos meus estudos
 
