@@ -1,5 +1,5 @@
 <h1 align="center">Oi &#x1F44B;, eu sou  a Luiza</h1>
-<h3 align="center">Tenho 20 anos e estudo engenharia da computação (3º ano) </h3>
+<h3 align="center">Tenho 20 anos e estudo engenharia da computação (4º ano) </h3>
 
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=luiza18&label=Profile%20views&color=0e75b6&style=flat" alt="luiza18" /> </p>
 
