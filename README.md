@@ -13,10 +13,11 @@
   <img src="https://komarev.com/ghpvc/?username=luiza18&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Visualizações do Perfil de Luiza" />
 </p>
 
-<h2>Tecnologias que tenho domínio:</h2>
+<h2>Tecnologias que estou estudando:</h2>
 <ul>
   <li>Python</li>
   <li>Java</li>
+   <li>JavaScript</li>
   <li>SQL</li>
 </ul>
 
