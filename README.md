@@ -41,7 +41,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiza18&show_icons=true&theme=cobalt" alt="Estatísticas do GitHub de Luiza" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiza18&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Luiza" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luiza18&layout=compact&show_icons=true&theme=tokyonight" />
 </p>
 
 </body>
