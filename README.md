@@ -7,7 +7,6 @@
 <body>
 
 <h1 align="center">Oi 👋, eu sou a Luiza</h1>
-<h3 align="center">Tenho 20 anos e estou cursando engenharia da computação</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=luiza18&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Visualizações do Perfil de Luiza" />
