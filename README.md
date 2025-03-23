@@ -21,7 +21,7 @@
 <ul>
     <li>🔎 📼 Busco novos desafios para aprender mais</li>
     <li>👩‍💻 📫 Estou compartilhando aqui meu progresso nos meus estudos</li>
-    <li>🎯 Meu objetivo é alcançar uma vaga de desenvolvedora de software / engenheira de software </li>
+    <li>🎯 Tenho grande interesse na área de desenvolvimento de software, dados e inteligência artificial </li>
 </ul>
 
 <h2>Tecnologias que estou estudando/domino: </h2>
