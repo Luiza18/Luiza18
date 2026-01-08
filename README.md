@@ -14,14 +14,16 @@
 
 <h2>Minha História:</h2>
 <p>
-    🌟 Desde a infância, nutri o sonho de me tornar engenheira. Com o passar do tempo, descobri minha paixão pela tecnologia. Ao deparar-me com a engenharia da computação, uma fascinação tomou conta de mim. Sempre tive uma curiosidade insaciável em compreender o funcionamento dos softwares e desvendar os segredos por trás dos computadores. Essa busca incessante me levou a explorar cada vez mais o campo da Tecnologia da Informação, onde hoje me encontro profundamente apaixonada. Tenho o firme propósito de continuar aprendendo e aplicando meus conhecimentos para alcançar meu objetivo de transformar o mundo através do desenvolvimento de softwares inovadores.
+    🌟 Desde cedo, desenvolvi interesse por tecnologia e pela forma como softwares e dados funcionam. Ao longo da minha formação em Engenharia da Computação, descobri minha paixão pela área de dados, onde posso transformar informações em conhecimento e apoiar decisões inteligentes.
+
+Atualmente, busco aprimorar meus conhecimentos em análise de dados, desenvolvimento de software e inteligência artificial, sempre em busca de novos desafios e aprendizado contínuo.
 </p>
 
 <h2>Interesses e Objetivos:</h2>
 <ul>
     <li>🔎 📼 Busco novos desafios para aprender mais</li>
     <li>👩‍💻 📫 Estou compartilhando aqui meu progresso nos meus estudos</li>
-    <li>🎯 Tenho grande interesse na área de desenvolvimento de software, dados e inteligência artificial </li>
+    <li>🎯 Tenho grande interesse na área de dados e inteligência artificial </li>
 </ul>
 
 <h2>Tecnologias que estou estudando/domino: </h2>
@@ -29,14 +31,14 @@
 <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> 
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postegres">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft">
+    <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning">
+    <img src="https://img.shields.io/badge/Statistics-1F4E79?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Estatística">
 </p>
 
 <p align="center" style="margin-top: 40px;">
@@ -51,8 +53,5 @@
 <br>
 <br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Luiza18&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Luiza" />
-</p>
-
 </body>
 </html>
